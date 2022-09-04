@@ -1,0 +1,15 @@
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\bin\Debug\net6.0\KrushkalsAlgo.exe
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\bin\Debug\net6.0\KrushkalsAlgo.deps.json
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\bin\Debug\net6.0\KrushkalsAlgo.runtimeconfig.json
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\bin\Debug\net6.0\KrushkalsAlgo.dll
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\bin\Debug\net6.0\KrushkalsAlgo.pdb
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\obj\Debug\net6.0\KrushkalsAlgo.csproj.AssemblyReference.cache
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\obj\Debug\net6.0\KrushkalsAlgo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\obj\Debug\net6.0\KrushkalsAlgo.AssemblyInfoInputs.cache
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\obj\Debug\net6.0\KrushkalsAlgo.AssemblyInfo.cs
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\obj\Debug\net6.0\KrushkalsAlgo.csproj.CoreCompileInputs.cache
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\obj\Debug\net6.0\KrushkalsAlgo.dll
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\obj\Debug\net6.0\refint\KrushkalsAlgo.dll
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\obj\Debug\net6.0\KrushkalsAlgo.pdb
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\obj\Debug\net6.0\KrushkalsAlgo.genruntimeconfig.cache
+F:\Design and Analysis Of  Algorithms\KrushkalsAlgo\obj\Debug\net6.0\ref\KrushkalsAlgo.dll

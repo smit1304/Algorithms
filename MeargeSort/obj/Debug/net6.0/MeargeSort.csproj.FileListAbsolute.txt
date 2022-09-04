@@ -1,0 +1,15 @@
+F:\Design and Analysis Of  Algorithms\MeargeSort\bin\Debug\net6.0\MeargeSort.exe
+F:\Design and Analysis Of  Algorithms\MeargeSort\bin\Debug\net6.0\MeargeSort.deps.json
+F:\Design and Analysis Of  Algorithms\MeargeSort\bin\Debug\net6.0\MeargeSort.runtimeconfig.json
+F:\Design and Analysis Of  Algorithms\MeargeSort\bin\Debug\net6.0\MeargeSort.dll
+F:\Design and Analysis Of  Algorithms\MeargeSort\bin\Debug\net6.0\MeargeSort.pdb
+F:\Design and Analysis Of  Algorithms\MeargeSort\obj\Debug\net6.0\MeargeSort.csproj.AssemblyReference.cache
+F:\Design and Analysis Of  Algorithms\MeargeSort\obj\Debug\net6.0\MeargeSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Design and Analysis Of  Algorithms\MeargeSort\obj\Debug\net6.0\MeargeSort.AssemblyInfoInputs.cache
+F:\Design and Analysis Of  Algorithms\MeargeSort\obj\Debug\net6.0\MeargeSort.AssemblyInfo.cs
+F:\Design and Analysis Of  Algorithms\MeargeSort\obj\Debug\net6.0\MeargeSort.csproj.CoreCompileInputs.cache
+F:\Design and Analysis Of  Algorithms\MeargeSort\obj\Debug\net6.0\MeargeSort.dll
+F:\Design and Analysis Of  Algorithms\MeargeSort\obj\Debug\net6.0\refint\MeargeSort.dll
+F:\Design and Analysis Of  Algorithms\MeargeSort\obj\Debug\net6.0\MeargeSort.pdb
+F:\Design and Analysis Of  Algorithms\MeargeSort\obj\Debug\net6.0\MeargeSort.genruntimeconfig.cache
+F:\Design and Analysis Of  Algorithms\MeargeSort\obj\Debug\net6.0\ref\MeargeSort.dll

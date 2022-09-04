@@ -1,0 +1,15 @@
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\bin\Debug\net6.0\SumofSubArray.exe
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\bin\Debug\net6.0\SumofSubArray.deps.json
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\bin\Debug\net6.0\SumofSubArray.runtimeconfig.json
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\bin\Debug\net6.0\SumofSubArray.dll
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\bin\Debug\net6.0\SumofSubArray.pdb
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\obj\Debug\net6.0\SumofSubArray.csproj.AssemblyReference.cache
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\obj\Debug\net6.0\SumofSubArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\obj\Debug\net6.0\SumofSubArray.AssemblyInfoInputs.cache
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\obj\Debug\net6.0\SumofSubArray.AssemblyInfo.cs
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\obj\Debug\net6.0\SumofSubArray.csproj.CoreCompileInputs.cache
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\obj\Debug\net6.0\SumofSubArray.dll
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\obj\Debug\net6.0\refint\SumofSubArray.dll
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\obj\Debug\net6.0\SumofSubArray.pdb
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\obj\Debug\net6.0\SumofSubArray.genruntimeconfig.cache
+F:\Design and Analysis Of  Algorithms\SumOfSubArray\obj\Debug\net6.0\ref\SumofSubArray.dll

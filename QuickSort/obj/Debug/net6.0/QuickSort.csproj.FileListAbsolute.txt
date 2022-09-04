@@ -1,0 +1,15 @@
+F:\Design and Analysis Of  Algorithms\QuickSort\obj\Debug\net6.0\QuickSort.csproj.AssemblyReference.cache
+F:\Design and Analysis Of  Algorithms\QuickSort\obj\Debug\net6.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Design and Analysis Of  Algorithms\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfoInputs.cache
+F:\Design and Analysis Of  Algorithms\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfo.cs
+F:\Design and Analysis Of  Algorithms\QuickSort\obj\Debug\net6.0\QuickSort.csproj.CoreCompileInputs.cache
+F:\Design and Analysis Of  Algorithms\QuickSort\bin\Debug\net6.0\QuickSort.exe
+F:\Design and Analysis Of  Algorithms\QuickSort\bin\Debug\net6.0\QuickSort.deps.json
+F:\Design and Analysis Of  Algorithms\QuickSort\bin\Debug\net6.0\QuickSort.runtimeconfig.json
+F:\Design and Analysis Of  Algorithms\QuickSort\bin\Debug\net6.0\QuickSort.dll
+F:\Design and Analysis Of  Algorithms\QuickSort\bin\Debug\net6.0\QuickSort.pdb
+F:\Design and Analysis Of  Algorithms\QuickSort\obj\Debug\net6.0\QuickSort.dll
+F:\Design and Analysis Of  Algorithms\QuickSort\obj\Debug\net6.0\refint\QuickSort.dll
+F:\Design and Analysis Of  Algorithms\QuickSort\obj\Debug\net6.0\QuickSort.pdb
+F:\Design and Analysis Of  Algorithms\QuickSort\obj\Debug\net6.0\QuickSort.genruntimeconfig.cache
+F:\Design and Analysis Of  Algorithms\QuickSort\obj\Debug\net6.0\ref\QuickSort.dll

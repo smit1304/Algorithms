@@ -1,0 +1,15 @@
+F:\Design and Analysis Of  Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+F:\Design and Analysis Of  Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+F:\Design and Analysis Of  Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+F:\Design and Analysis Of  Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+F:\Design and Analysis Of  Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+F:\Design and Analysis Of  Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.AssemblyReference.cache
+F:\Design and Analysis Of  Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+F:\Design and Analysis Of  Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+F:\Design and Analysis Of  Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+F:\Design and Analysis Of  Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+F:\Design and Analysis Of  Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+F:\Design and Analysis Of  Algorithms\BinarySearch\obj\Debug\net6.0\refint\BinarySearch.dll
+F:\Design and Analysis Of  Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+F:\Design and Analysis Of  Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache
+F:\Design and Analysis Of  Algorithms\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll

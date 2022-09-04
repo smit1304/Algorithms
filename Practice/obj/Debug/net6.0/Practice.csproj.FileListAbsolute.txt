@@ -1,0 +1,15 @@
+F:\Design and Analysis Of  Algorithms\Practice\bin\Debug\net6.0\Practice.exe
+F:\Design and Analysis Of  Algorithms\Practice\bin\Debug\net6.0\Practice.deps.json
+F:\Design and Analysis Of  Algorithms\Practice\bin\Debug\net6.0\Practice.runtimeconfig.json
+F:\Design and Analysis Of  Algorithms\Practice\bin\Debug\net6.0\Practice.dll
+F:\Design and Analysis Of  Algorithms\Practice\bin\Debug\net6.0\Practice.pdb
+F:\Design and Analysis Of  Algorithms\Practice\obj\Debug\net6.0\Practice.csproj.AssemblyReference.cache
+F:\Design and Analysis Of  Algorithms\Practice\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+F:\Design and Analysis Of  Algorithms\Practice\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+F:\Design and Analysis Of  Algorithms\Practice\obj\Debug\net6.0\Practice.AssemblyInfo.cs
+F:\Design and Analysis Of  Algorithms\Practice\obj\Debug\net6.0\Practice.csproj.CoreCompileInputs.cache
+F:\Design and Analysis Of  Algorithms\Practice\obj\Debug\net6.0\Practice.dll
+F:\Design and Analysis Of  Algorithms\Practice\obj\Debug\net6.0\refint\Practice.dll
+F:\Design and Analysis Of  Algorithms\Practice\obj\Debug\net6.0\Practice.pdb
+F:\Design and Analysis Of  Algorithms\Practice\obj\Debug\net6.0\Practice.genruntimeconfig.cache
+F:\Design and Analysis Of  Algorithms\Practice\obj\Debug\net6.0\ref\Practice.dll
