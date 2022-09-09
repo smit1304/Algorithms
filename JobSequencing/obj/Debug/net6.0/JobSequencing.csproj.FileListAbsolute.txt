@@ -1,0 +1,15 @@
+F:\Design and Analysis Of  Algorithms\JobSequencing\bin\Debug\net6.0\JobSequencing.exe
+F:\Design and Analysis Of  Algorithms\JobSequencing\bin\Debug\net6.0\JobSequencing.deps.json
+F:\Design and Analysis Of  Algorithms\JobSequencing\bin\Debug\net6.0\JobSequencing.runtimeconfig.json
+F:\Design and Analysis Of  Algorithms\JobSequencing\bin\Debug\net6.0\JobSequencing.dll
+F:\Design and Analysis Of  Algorithms\JobSequencing\bin\Debug\net6.0\JobSequencing.pdb
+F:\Design and Analysis Of  Algorithms\JobSequencing\obj\Debug\net6.0\JobSequencing.csproj.AssemblyReference.cache
+F:\Design and Analysis Of  Algorithms\JobSequencing\obj\Debug\net6.0\JobSequencing.GeneratedMSBuildEditorConfig.editorconfig
+F:\Design and Analysis Of  Algorithms\JobSequencing\obj\Debug\net6.0\JobSequencing.AssemblyInfoInputs.cache
+F:\Design and Analysis Of  Algorithms\JobSequencing\obj\Debug\net6.0\JobSequencing.AssemblyInfo.cs
+F:\Design and Analysis Of  Algorithms\JobSequencing\obj\Debug\net6.0\JobSequencing.csproj.CoreCompileInputs.cache
+F:\Design and Analysis Of  Algorithms\JobSequencing\obj\Debug\net6.0\JobSequencing.dll
+F:\Design and Analysis Of  Algorithms\JobSequencing\obj\Debug\net6.0\refint\JobSequencing.dll
+F:\Design and Analysis Of  Algorithms\JobSequencing\obj\Debug\net6.0\JobSequencing.pdb
+F:\Design and Analysis Of  Algorithms\JobSequencing\obj\Debug\net6.0\JobSequencing.genruntimeconfig.cache
+F:\Design and Analysis Of  Algorithms\JobSequencing\obj\Debug\net6.0\ref\JobSequencing.dll

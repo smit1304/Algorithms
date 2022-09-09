@@ -67,7 +67,6 @@ class Krushkals
         while (SolutionSet.Count != n - 1)
         {
             currentEdgePointer = (Edge)Edges[edgeOffset];
-
             //check if this current edge makes cycle or not
             sourceParent = _FindParent(Parent, currentEdgePointer.src);
             destinationParent = _FindParent(Parent, currentEdgePointer.dest);
