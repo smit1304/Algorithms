@@ -1,0 +1,15 @@
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\bin\Debug\net6.0\ChangeMakingProblem.exe
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\bin\Debug\net6.0\ChangeMakingProblem.deps.json
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\bin\Debug\net6.0\ChangeMakingProblem.runtimeconfig.json
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\bin\Debug\net6.0\ChangeMakingProblem.dll
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\bin\Debug\net6.0\ChangeMakingProblem.pdb
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\obj\Debug\net6.0\ChangeMakingProblem.csproj.AssemblyReference.cache
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\obj\Debug\net6.0\ChangeMakingProblem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\obj\Debug\net6.0\ChangeMakingProblem.AssemblyInfoInputs.cache
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\obj\Debug\net6.0\ChangeMakingProblem.AssemblyInfo.cs
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\obj\Debug\net6.0\ChangeMakingProblem.csproj.CoreCompileInputs.cache
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\obj\Debug\net6.0\ChangeMakingProblem.dll
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\obj\Debug\net6.0\refint\ChangeMakingProblem.dll
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\obj\Debug\net6.0\ChangeMakingProblem.pdb
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\obj\Debug\net6.0\ChangeMakingProblem.genruntimeconfig.cache
+F:\Design and Analysis Of  Algorithms\ChangeMakingProblem\obj\Debug\net6.0\ref\ChangeMakingProblem.dll

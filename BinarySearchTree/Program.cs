@@ -10,13 +10,15 @@
         this.right = right;
     }
 
-    public static TreeNode result = null;
+    //public static TreeNode result = null;
     public static TreeNode searchNode(TreeNode node, int val)
     {
         if (node == null || node.val == val)
             return node;
-        searchNode(node.left, val);
-        searchNode(node.right, val);
+        if (node.val > val)
+            return searchNode(node.left, val);
+
+        return searchNode(node.right, val);
     }
 
 }
@@ -31,8 +33,8 @@ public class BinarySearchTree
         root.left.right = new TreeNode(3, null, null);
         root.right = new TreeNode(7, null, null);
 
-        Console.Write(root.left.left.val);
 
-        TreeNode result = TreeNode.searchNode(root, 2, result);
+        TreeNode result = TreeNode.searchNode(root, 2);
+        Console.Write(result.val);
     }
 }
