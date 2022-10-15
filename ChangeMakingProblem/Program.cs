@@ -1,33 +1,20 @@
 ﻿class ChangMaking
 {
 
-    public static void _MakeChange(float[,] records, int[] Di, int rowSize, int columnSize)
+    public static void _FillTable(float[,] records, int[] Di, int rowSize, int columnSize)
     {
-        //List<int> availableCoins = new List<int>();
-        //int coinOffset = 0;
-        //fill the records 
-        for (int i = 1; i < rowSize; i++)
+        for (int i = 0; i < rowSize; i++)
         {
-            // if (i != 0)
-            // {
-            //     availableCoins.Add(Di[coinOffset]);
-            // }
-            //availableCoins.Add(i);
-            for (int j = 1; j < columnSize; j++)
+            for (int j = 0; j < columnSize; j++)
             {
-                // if (availableCoins.Count == 0 && j > 0)
-                // {
-                //     records[i, j] = 0;
-                //     continue;
-                // }
-                if (i == 1 && j < Di[i - 1])
+                if (i == 0 || j == 0)
                 {
                     records[i, j] = 0;
                     continue;
                 }
                 if (i == 1)
                 {
-                    records[i, j] = 1 + records[1, j - Di[i - 1]];
+                    records[i, j] = 1 + records[i, j - Di[i - 1]];
                     continue;
                 }
                 if (j < Di[i - 1])
@@ -35,17 +22,28 @@
                     records[i, j] = records[i - 1, j];
                     continue;
                 }
-                records[i, j] = MathF.Min(records[i - 1, j], 1 + records[1, j - Di[i - 1]]);
+
+                records[i, j] = MathF.Min(records[i - 1, j], 1 + records[i, j - Di[i - 1]]);
             }
-            // if (i != 0)
-            // {
-            //     coinOffset++;
-            // }
         }
     }
-    public static void _TraceMakeChange(int[,] records)
+    public static void _TraceMakeChange(float[,] records, int[] Di, List<float> solution, int i, int j)
     {
-        //fill the solution set
+        if (j == 0)
+        {
+            return;
+        }
+        if (records[i, j] == records[i - 1, j])
+        {
+            i--;
+            _TraceMakeChange(records, Di, solution, i, j);
+        }
+        else
+        {
+            solution.Add(Di[i - 1]);
+            j = j - Di[i - 1];
+            _TraceMakeChange(records, Di, solution, i, j);
+        }
     }
     public static void Main(string[] args)
     {
@@ -53,21 +51,25 @@
         int n = Convert.ToInt32(Console.ReadLine());
         int[] Di = new int[] { 1, 4, 6 };
         float[,] records = new float[Di.Length + 1, n + 1];
-        List<int> solution = new List<int>();
-        Console.WriteLine(records.Length);
+        List<float> solution = new List<float>();
 
-        //Console.Write(Di[0]);
-        _MakeChange(records, Di, Di.Length + 1, n + 1);
+        _FillTable(records, Di, Di.Length + 1, n + 1);
+        _TraceMakeChange(records, Di, solution, Di.Length, n);
 
-        for (int i = 1; i < Di.Length + 1; i++)
+        // Debug
+        Console.WriteLine("Taable : ");
+        for (int i = 0; i < Di.Length + 1; i++)
         {
-            for (int j = 1; j < n + 1; j++)
+            for (int j = 0; j < n + 1; j++)
             {
                 Console.Write(records[i, j] + " ");
             }
             Console.WriteLine();
         }
-
-
+        Console.Write("Solution : ");
+        for (int i = 0; i < solution.Count; i++)
+        {
+            Console.Write(solution[i] + " ");
+        }
     }
 }
