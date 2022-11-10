@@ -1,0 +1,15 @@
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\bin\Debug\net6.0\PizzaOrderingSystem.exe
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\bin\Debug\net6.0\PizzaOrderingSystem.deps.json
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\bin\Debug\net6.0\PizzaOrderingSystem.runtimeconfig.json
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\bin\Debug\net6.0\PizzaOrderingSystem.dll
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\bin\Debug\net6.0\PizzaOrderingSystem.pdb
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\obj\Debug\net6.0\PizzaOrderingSystem.csproj.AssemblyReference.cache
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\obj\Debug\net6.0\PizzaOrderingSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\obj\Debug\net6.0\PizzaOrderingSystem.AssemblyInfoInputs.cache
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\obj\Debug\net6.0\PizzaOrderingSystem.AssemblyInfo.cs
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\obj\Debug\net6.0\PizzaOrderingSystem.csproj.CoreCompileInputs.cache
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\obj\Debug\net6.0\PizzaOrderingSystem.dll
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\obj\Debug\net6.0\refint\PizzaOrderingSystem.dll
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\obj\Debug\net6.0\PizzaOrderingSystem.pdb
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\obj\Debug\net6.0\PizzaOrderingSystem.genruntimeconfig.cache
+F:\Design and Analysis Of  Algorithms\PizzaOrderingSystem\obj\Debug\net6.0\ref\PizzaOrderingSystem.dll

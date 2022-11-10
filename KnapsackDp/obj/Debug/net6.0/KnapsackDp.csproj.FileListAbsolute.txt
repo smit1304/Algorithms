@@ -1,0 +1,15 @@
+F:\Design and Analysis Of  Algorithms\KnapsackDp\bin\Debug\net6.0\KnapsackDp.exe
+F:\Design and Analysis Of  Algorithms\KnapsackDp\bin\Debug\net6.0\KnapsackDp.deps.json
+F:\Design and Analysis Of  Algorithms\KnapsackDp\bin\Debug\net6.0\KnapsackDp.runtimeconfig.json
+F:\Design and Analysis Of  Algorithms\KnapsackDp\bin\Debug\net6.0\KnapsackDp.dll
+F:\Design and Analysis Of  Algorithms\KnapsackDp\bin\Debug\net6.0\KnapsackDp.pdb
+F:\Design and Analysis Of  Algorithms\KnapsackDp\obj\Debug\net6.0\KnapsackDp.csproj.AssemblyReference.cache
+F:\Design and Analysis Of  Algorithms\KnapsackDp\obj\Debug\net6.0\KnapsackDp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Design and Analysis Of  Algorithms\KnapsackDp\obj\Debug\net6.0\KnapsackDp.AssemblyInfoInputs.cache
+F:\Design and Analysis Of  Algorithms\KnapsackDp\obj\Debug\net6.0\KnapsackDp.AssemblyInfo.cs
+F:\Design and Analysis Of  Algorithms\KnapsackDp\obj\Debug\net6.0\KnapsackDp.csproj.CoreCompileInputs.cache
+F:\Design and Analysis Of  Algorithms\KnapsackDp\obj\Debug\net6.0\KnapsackDp.dll
+F:\Design and Analysis Of  Algorithms\KnapsackDp\obj\Debug\net6.0\refint\KnapsackDp.dll
+F:\Design and Analysis Of  Algorithms\KnapsackDp\obj\Debug\net6.0\KnapsackDp.pdb
+F:\Design and Analysis Of  Algorithms\KnapsackDp\obj\Debug\net6.0\KnapsackDp.genruntimeconfig.cache
+F:\Design and Analysis Of  Algorithms\KnapsackDp\obj\Debug\net6.0\ref\KnapsackDp.dll
